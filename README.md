@@ -38,7 +38,9 @@ Also there you can find information about how to implement [database migrations 
 
 ## AngularJS
 
-* [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial) - construction of an AngularJS web app.
+[AngularJS](https://angularjs.org/) is a structural framework for dynamic web apps.
+
+A great way to get introduced to AngularJS is to work through [this tutorial](https://docs.angularjs.org/tutorial).
 
 ## ReactJS
 
