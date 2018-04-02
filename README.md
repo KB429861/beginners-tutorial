@@ -34,7 +34,9 @@ Also there you can find information about how to implement [database migrations 
 
 ## JavaScript
 
-* [JS Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - a re-introduction to JavaScript.
+If you are already familiar with JavaScript, you can just [refresh your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
+
+For a better understanding of JavaScript, read the [modern JavaScript tutorial](https://javascript.info/), primarily Part 1.
 
 ## AngularJS
 
