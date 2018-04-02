@@ -49,7 +49,9 @@
 
 Redux is a predictable state container for JavaScript apps.
 
-* [Redux](https://redux.js.org/) - official site with docs and guides.
+On the [official site](https://redux.js.org/) you can find [general information](https://redux.js.org/introduction) about Redux, as well as [basics](https://redux.js.org/basics) and [advanced](https://redux.js.org/advanced) walkthroughs.
+
+You can use Redux together with React, or with any other view library.
 
 ## Vaadin Framework
 
@@ -65,7 +67,7 @@ Redux is a predictable state container for JavaScript apps.
 
 [Spring Boot](https://projects.spring.io/spring-boot/) is a framework for easy Spring application creation.
 
-[This site](https://spring.io/guides) contains a list of official Spring guides.
+[This page](https://spring.io/guides) contains a list of official Spring guides.
 
 I recommend to begin with the following tutorials:
 
