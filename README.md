@@ -18,7 +18,11 @@
 
 ### Flyway
 
-* [Flyway Overview](https://flywaydb.org/getstarted/) - general information on database migrations and how Flyway works.
+[Flyway](https://flywaydb.org/getstarted/) is the open-source tool that makes database migrations easy.
+
+Official site contains general information on [database migrations](https://flywaydb.org/getstarted/why) and [how Flyway works](https://flywaydb.org/getstarted/how).
+
+Also there you can find information about how to implement [database migrations with Flyway on Java](https://flywaydb.org/getstarted/java).
 
 ### JPA
 
