@@ -51,7 +51,11 @@ Redux is a predictable state container for JavaScript apps.
 
 * [Redux](https://redux.js.org/) - official site with docs and guides.
 
-## Vaadin
+## Vaadin Framework
+
+[Vaadin Framework](https://vaadin.com/framework) is a Java UI framework that simplifies web app development.
+
+[This tutorial](https://vaadin.com/docs/v8/framework/tutorial.html) gives you an overview of how you can use Vaadin Framework to build single-page web UIs for your Java application.
 
 ## Spark Framework
 
@@ -59,7 +63,7 @@ Redux is a predictable state container for JavaScript apps.
 
 ## Spring Framework
 
-[Spring Boot](https://projects.spring.io/spring-boot/) is a framework for easy Spring applications creation.
+[Spring Boot](https://projects.spring.io/spring-boot/) is a framework for easy Spring application creation.
 
 [This site](https://spring.io/guides) contains a list of official Spring guides.
 
