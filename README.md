@@ -16,6 +16,14 @@
 
 ### JDBC
 
+JDBC is a Java API to connect and execute query with the database.
+
+### JPA / Hibernate
+
+### MySQL
+
+### PostgreSQL
+
 ### Flyway
 
 [Flyway](https://flywaydb.org/getstarted/) is the open-source tool that makes database migrations easy.
@@ -24,19 +32,11 @@ Official site contains general information on [database migrations](https://flyw
 
 Also there you can find information about how to implement [database migrations with Flyway on Java](https://flywaydb.org/getstarted/java).
 
-### JPA
-
-### Hibernate
-
-### MySQL
-
-### PostgreSQL
-
 ## JavaScript
 
 If you are already familiar with JavaScript, you can just [refresh your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
-For a better understanding of JavaScript, read the [modern JavaScript tutorial](https://javascript.info/), primarily Part 1.
+For a better understanding of JavaScript, yo can read the [modern JavaScript tutorial](https://javascript.info/), primarily Part 1.
 
 ## AngularJS
 
@@ -71,6 +71,10 @@ You can use Redux together with React, or with any other view library.
 [This tutorial](https://vaadin.com/docs/v8/framework/tutorial.html) gives you an overview of how you can use Vaadin Framework to build single-page web UIs for your Java application.
 
 ## Spark Framework
+
+[Spark](http://sparkjava.com/) is a micro framework for creating web applications.
+
+Here you can find [tutorials](http://sparkjava.com/tutorials/) and [documentation](http://sparkjava.com/documentation).
 
 ## Play Framework
 
