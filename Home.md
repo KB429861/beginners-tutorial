@@ -42,7 +42,7 @@
 * [React Docs](https://reactjs.org/docs) - official guides on React.
 * [React Router](https://reacttraining.com/react-router/) - official guides on React Router.
 
-## Vaadin
+
 
 
 ## Redux
@@ -51,11 +51,15 @@ Redux is a predictable state container for JavaScript apps.
 
 * [Redux](https://redux.js.org/) - official site with docs and guides.
 
+## Vaadin
+
 ## Spark Framework
 
 ## Play Framework
 
 ## Spring Framework
+
+[Spring Boot](https://projects.spring.io/spring-boot/) is a framework for easy Spring applications creation.
 
 [This site](https://spring.io/guides) contains a list of official Spring guides.
 
@@ -64,4 +68,4 @@ I recommend to begin with the following tutorials:
 * [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
-If you need more information about Spring (e.g. integration with React/Angular/Vaadin, securing an application) you can find it by the link above.
+If you need more information about Spring (e.g., integration with [React](https://spring.io/guides/tutorials/react-and-spring-data-rest/)/[Angular](https://spring.io/guides/gs/consuming-rest-angularjs/)/[Vaadin](https://spring.io/guides/gs/crud-with-vaadin/), [securing](https://spring.io/guides/topicals/spring-security-architecture/) an application) you can find it by the [link](https://spring.io/guides) above.
