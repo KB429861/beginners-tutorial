@@ -38,14 +38,17 @@
 
 ## ReactJS
 
-* [React Tutorial](https://reactjs.org/tutorial/tutorial.html) - building an interactive tic-tac-toe game.
-* [React Docs](https://reactjs.org/docs) - official guides on React.
-* [React Router](https://reacttraining.com/react-router/) - official guides on React Router.
+[React](https://reactjs.org/) is a JavaScript library for building user interfaces.
 
+In [this tutorial](https://reactjs.org/tutorial/tutorial.html) you can learn how to build an interactive tic-tac-toe game with React.
 
+Also you can read [documentation](https://reactjs.org/docs) for a better understanding of React.
 
+### React Router
 
-## Redux
+[React Router](https://reacttraining.com/react-router/) is the standard routing library for React.
+
+### Redux
 
 Redux is a predictable state container for JavaScript apps.
 
