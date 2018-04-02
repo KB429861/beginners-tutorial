@@ -20,6 +20,12 @@ JDBC is a Java API to connect and execute query with the database.
 
 ### JPA / Hibernate
 
+[JPA](https://en.wikipedia.org/wiki/Java_Persistence_API) is a Java API specification that describes the management of relational data in applications.
+
+As an implementation of JPA can be used [Hibernate](http://hibernate.org/) framework. 
+
+> JPA is the dance, Hibernate is the dancer.
+
 ### MySQL
 
 ### PostgreSQL
@@ -77,6 +83,8 @@ You can use Redux together with React, or with any other view library.
 Here you can find [tutorials](http://sparkjava.com/tutorials/) and [documentation](http://sparkjava.com/documentation).
 
 ## Play Framework
+
+
 
 ## Spring Framework
 
