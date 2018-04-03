@@ -84,7 +84,9 @@ Here you can find [tutorials](http://sparkjava.com/tutorials/) and [documentatio
 
 ## Play Framework
 
+[Play](https://www.playframework.com/) is a high-productivity Java and Scala web application framework that integrates the components and APIs you need for modern web application development.
 
+All the necessary information can be found in the [official documentation](https://www.playframework.com/documentation/1.4.x/home).
 
 ## Spring Framework
 
