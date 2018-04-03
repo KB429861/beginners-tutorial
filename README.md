@@ -2,11 +2,11 @@
 
 ## Git
 
-### Basic
+[Git](https://git-scm.com/) is a free and open source version control system.
 
-* [Pro Git Book](https://git-scm.com/book/en/v2) - chapters 1, 2, 3, and 5.
+If you are new to git, you can read [Pro Git book](https://git-scm.com/book/en/v2), primarily chapters 1, 2, 3 and 5.
 
-### Advanced
+After that you can read about three git workflow and branching models:
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [A stable mainline branching model for Git](http://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/)
