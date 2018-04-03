@@ -1,4 +1,6 @@
-# Tutorial
+# Beginners Tutorial
+
+This tutorial contains information about common tools and frameworks used to create web applications.
 
 ## Git
 
@@ -16,7 +18,7 @@ After that you can read about three git workflow and branching models:
 
 ### JDBC
 
-JDBC is a Java API to connect and execute query with the database.
+[JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) is a Java API to connect and execute query with the database.
 
 ### JPA / Hibernate
 
@@ -24,11 +26,7 @@ JDBC is a Java API to connect and execute query with the database.
 
 As an implementation of JPA can be used [Hibernate](http://hibernate.org/) framework. 
 
-> JPA is the dance, Hibernate is the dancer.
-
-### MySQL
-
-### PostgreSQL
+An example of using Hibernate JPA can be found [here](http://tomee.apache.org/examples-trunk/jpa-hibernate/README.html). 
 
 ### Flyway
 
