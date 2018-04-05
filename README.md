@@ -78,7 +78,13 @@ You can use Redux together with React, or with any other view library.
 
 [Spark](http://sparkjava.com/) is a micro framework for creating web applications.
 
-Here you can find [tutorials](http://sparkjava.com/tutorials/) and [documentation](http://sparkjava.com/documentation).
+Here you can find [documentation](http://sparkjava.com/documentation) and [tutorials](http://sparkjava.com/tutorials/).
+
+To improve your practical skills you can go through the following tutorials:
+
+* [Building a JavaScript todo-list app](http://sparkjava.com/tutorials/ajax-without-writing-javascript)
+* [Building a contact app](http://sparkjava.com/tutorials/cloud-contact-app)
+* [Building a Twitter clone](http://sparkjava.com/tutorials/twitter-clone)
 
 ## Play Framework
 
