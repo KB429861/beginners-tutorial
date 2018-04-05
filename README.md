@@ -44,6 +44,8 @@ If you are already familiar with JavaScript, you can just [refresh your JavaScri
 
 For a better understanding of JavaScript, yo can read the [modern JavaScript tutorial](https://javascript.info/), primarily Part 1.
 
+If you want get a stronger JavaScript foundation, read the [Eloquent JavaScript](http://eloquentjavascript.net/) book. 
+
 ## AngularJS
 
 [AngularJS](https://angularjs.org/) is a structural framework for dynamic web apps.
@@ -56,7 +58,9 @@ A great way to get introduced to AngularJS is to work through [this tutorial](ht
 
 In [this tutorial](https://reactjs.org/tutorial/tutorial.html) you can learn how to build an interactive tic-tac-toe game with React.
 
-Also you can read [documentation](https://reactjs.org/docs) for a better understanding of React.
+On the official site you can read [documentation](https://reactjs.org/docs) for a better understanding of React.
+
+Also here is an [interactive guide](http://buildwithreact.com/tutorial) to React.
 
 ### React Router
 
@@ -106,3 +110,14 @@ I recommend to begin with the following tutorials:
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
 If you need more information about Spring (e.g., integration with [React](https://spring.io/guides/tutorials/react-and-spring-data-rest/)/[Angular](https://spring.io/guides/gs/consuming-rest-angularjs/)/[Vaadin](https://spring.io/guides/gs/crud-with-vaadin/), [securing](https://spring.io/guides/topicals/spring-security-architecture/) an application) you can find it by the [link](https://spring.io/guides) above.
+
+# Project Ideas
+
+* SocialCard
+* WeatherApp
+* Calculator
+* Github Issues Page
+* Chat
+* Tetris
+* Auth Form 
+* Blog
