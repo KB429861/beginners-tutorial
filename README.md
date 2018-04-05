@@ -8,7 +8,9 @@ This tutorial contains information about common tools and frameworks used to cre
 
 If you are new to git, you can read [Pro Git book](https://git-scm.com/book/en/v2), primarily chapters 1, 2, 3 and 5.
 
-After that you can read about three git workflow and branching models:
+Also you can get acquainted with git from the [interactive course](https://try.github.io) or learn about git branching from the [interactive tutorial](https://learngitbranching.js.org/). 
+
+After that you can read about three popular git workflow and branching models:
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [A stable mainline branching model for Git](http://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/)
