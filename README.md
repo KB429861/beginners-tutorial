@@ -62,6 +62,14 @@ On the official site you can read [documentation](https://reactjs.org/docs) for 
 
 Also here is an [interactive guide](http://buildwithreact.com/tutorial) to React.
 
+#### Practice
+
+Try creating a Social Card component like on image below.
+
+![Social Card](https://daveceddia.com/images/social-card.png)
+
+Once you have a single SocialCard component rendering, try making a list of them with some fake data.
+
 ### React Router
 
 [React Router](https://reacttraining.com/react-router/) is the standard routing library for React.
@@ -73,6 +81,20 @@ Redux is a predictable state container for JavaScript apps.
 On the [official site](https://redux.js.org/) you can find [general information](https://redux.js.org/introduction) about Redux, as well as [basics](https://redux.js.org/basics) and [advanced](https://redux.js.org/advanced) walkthroughs.
 
 You can use Redux together with React, or with any other view library.
+
+#### Practice
+
+Try creating a Weather App which displays a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use fake, hard-coded data until you’ve got everything rendering correctly.
+
+![Weather App](https://daveceddia.com/images/weather.png)
+
+For added practice, here are a few ways you could expand on the app:
+
+* Add the ability to click on a day, and see its hourly forecast. You can just maintain the current view in the top-level App state.
+* Add React Router to the project and add routes, such that / shows the 5-day forecast, and /[name-of-day] shows the hourly forecast for a particular day.
+* Sign up for a free API key from [Open Weather Map](https://openweathermap.org/), fetch a real 5-day forecast, and feed that data into your app.
+
+You can see how this app starts off simple, but can be expanded at will to increase the challenge and the learning.
 
 ## Vaadin Framework
 
