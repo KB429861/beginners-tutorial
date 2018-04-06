@@ -64,7 +64,7 @@ Also here is an [interactive guide](http://buildwithreact.com/tutorial) to React
 
 #### Practice
 
-Try creating a Social Card component like on image below.
+Try creating a Social Card component like on the image below.
 
 ![Social Card](https://daveceddia.com/images/social-card.png)
 
@@ -91,7 +91,7 @@ Try creating a Weather App which displays a 5-day weather forecast, where each d
 For added practice, here are a few ways you could expand on the app:
 
 * Add the ability to click on a day, and see its hourly forecast. You can just maintain the current view in the top-level App state.
-* Add React Router to the project and add routes, such that / shows the 5-day forecast, and /[name-of-day] shows the hourly forecast for a particular day.
+* Add React Router to the project and add routes, such that `/` shows the 5-day forecast, and `/[name-of-day]` shows the hourly forecast for a particular day.
 * Sign up for a free API key from [Open Weather Map](https://openweathermap.org/), fetch a real 5-day forecast, and feed that data into your app.
 
 You can see how this app starts off simple, but can be expanded at will to increase the challenge and the learning.
@@ -135,8 +135,6 @@ If you need more information about Spring (e.g., integration with [React](https:
 
 # Project Ideas
 
-* SocialCard
-* WeatherApp
 * Calculator
 * Github Issues Page
 * Chat
