@@ -122,6 +122,8 @@ You can see how this app starts off simple, but can be expanded at will to incre
 
 Here you can find [documentation](http://sparkjava.com/documentation) and [tutorials](http://sparkjava.com/tutorials/).
 
+#### Practice
+
 To improve your practical skills you can go through the following tutorials:
 
 * [Building a JavaScript todo-list app](http://sparkjava.com/tutorials/ajax-without-writing-javascript)
@@ -145,7 +147,25 @@ I recommend to begin with the following tutorials:
 * [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
-If you need more information about Spring (e.g., integration with [React](https://spring.io/guides/tutorials/react-and-spring-data-rest/)/[Angular](https://spring.io/guides/gs/consuming-rest-angularjs/)/[Vaadin](https://spring.io/guides/gs/crud-with-vaadin/), [securing](https://spring.io/guides/topicals/spring-security-architecture/) an application) you can find it by the [link](https://spring.io/guides) above.
+If you need more information about Spring (e.g., integration with [ReactJS](https://spring.io/guides/tutorials/react-and-spring-data-rest/)/[AngularJS](https://spring.io/guides/gs/consuming-rest-angularjs/)/[Vaadin](https://spring.io/guides/gs/crud-with-vaadin/), [securing](https://spring.io/guides/topicals/spring-security-architecture/) an application) you can find it by the [link](https://spring.io/guides) above.
+
+#### Practice
+
+Make a simplified version of Github’s Issues page. [Here’s an example](https://github.com/facebook/create-react-app/issues).
+
+Use Spring Data REST and its powerful backend functionality combined with React’s features to build an application.
+
+Make use of React Router to implement page navigation and Redux to organize application state.
+
+The application must show a list of available issues, and allow creating and commenting/changing states of issues.
+
+Other functional requirements are:
+
+* The application should retrieve the data from and store it in the database.
+* All forms must support validation and display errors.
+* User authentication and authorization is required.
+
+For added difficulty, implement the issue detail page too. Render the issue’s Markdown text and its comments using something like [react-markdown](https://github.com/rexxars/react-markdown).
 
 # Project Ideas
 
@@ -156,5 +176,5 @@ If you need more information about Spring (e.g., integration with [React](https:
 * Auth Form 
 * Blog
 * People
-* BitCoin Monitor
 * NoteWorx
+* Social Network
