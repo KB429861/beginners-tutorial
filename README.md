@@ -170,11 +170,6 @@ For added difficulty, implement the issue detail page too. Render the issue’s 
 # Project Ideas
 
 * Calculator
-* Github Issues Page
 * Chat
-* Tetris
-* Auth Form 
 * Blog
-* People
-* NoteWorx
 * Social Network
