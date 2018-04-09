@@ -52,6 +52,20 @@ If you want get a stronger JavaScript foundation, read the [Eloquent JavaScript]
 
 A great way to get introduced to AngularJS is to work through [this tutorial](https://docs.angularjs.org/tutorial).
 
+#### Practice
+
+For a some practice you can try to create an app that monitors changes in the Bitcoin Price Index (BPI).
+
+Use [CoinDesk Bitcoin Price Index API](https://www.coindesk.com/api/) to retrieve price information.
+
+By default, the CoinDesk website publishes the BPI in USD, EUR, and GBP, but you can add an additional field to show BPI for any custom selected currency.
+
+Here is an example of application layout:
+
+|...|...|...|
+|---|---|---|
+| ![Screenshot 1](https://user-images.githubusercontent.com/33935506/34460771-4309303a-ee21-11e7-8a41-867a266e092c.png) | ![Screenshot 2](https://user-images.githubusercontent.com/33935506/34460772-4337f320-ee21-11e7-9cc5-aa3b78f5f6b0.png) | ![Screenshot 4](https://user-images.githubusercontent.com/33935506/34460774-43a80264-ee21-11e7-8323-fbee96ccce35.png) |
+
 ## ReactJS
 
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces.
@@ -141,3 +155,6 @@ If you need more information about Spring (e.g., integration with [React](https:
 * Tetris
 * Auth Form 
 * Blog
+* People
+* BitCoin Monitor
+* NoteWorx
