@@ -38,6 +38,14 @@ Official site contains general information on [database migrations](https://flyw
 
 Also there you can find information about how to implement [database migrations with Flyway on Java](https://flywaydb.org/getstarted/java).
 
+## HTML & CSS
+
+Here is a simple and comprehensive [guide](https://learn.shayhowe.com/html-css/) dedicated to helping beginners learn HTML and CSS.
+
+It contains a set of lessons with a practical part.
+
+Also there are good [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and other tutorials with examples on the [W3Schools](https://www.w3schools.com/) website.
+
 ## JavaScript
 
 If you are already familiar with JavaScript, you can just [refresh your JavaScript knowledge](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
