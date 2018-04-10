@@ -177,7 +177,7 @@ Make a simplified version of Github’s Issues page. [Here’s an example](https
 
 Use Spring Data REST and its powerful backend functionality combined with React’s features to build an application.
 
-Make use of React Router to implement page navigation and Redux to organize application state.
+Make use of React Router to implement page navigation and [Redux](#redux) to organize application state.
 
 The application must show a list of available issues, and allow creating and commenting/changing states of issues.
 
