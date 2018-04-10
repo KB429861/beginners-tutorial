@@ -152,6 +152,12 @@ To improve your practical skills you can go through the following tutorials:
 
 All the necessary information can be found in the [official documentation](https://www.playframework.com/documentation/1.4.x/home).
 
+#### Practice
+
+Create an expense tracker application that combines Play Framework and AngularJS.
+
+Create a simple interface you can use to add and categorize your expenses. Generate monthly reports based on the inputs and write custom alerts.
+
 ## Spring Framework
 
 [Spring Boot](https://projects.spring.io/spring-boot/) is a framework for easy Spring application creation.
@@ -182,9 +188,3 @@ Other functional requirements are:
 * User authentication and authorization is required.
 
 For added difficulty, implement the issue detail page too. Render the issue’s Markdown text and its comments using something like [react-markdown](https://github.com/rexxars/react-markdown).
-
-# Project Ideas
-
-* Chat
-* Blog
-* Social Network
