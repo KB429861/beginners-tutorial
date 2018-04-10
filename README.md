@@ -46,6 +46,14 @@ For a better understanding of JavaScript, yo can read the [modern JavaScript tut
 
 If you want get a stronger JavaScript foundation, read the [Eloquent JavaScript](http://eloquentjavascript.net/) book. 
 
+#### Practice
+
+As a practical task, try to create a pure-javascript calculator. 
+
+Additional functional requirement is to preserve the history of operations and show it to the user.
+
+Use HTML and CSS to create a user-friendly interface.
+
 ## AngularJS
 
 [AngularJS](https://angularjs.org/) is a structural framework for dynamic web apps.
@@ -169,7 +177,6 @@ For added difficulty, implement the issue detail page too. Render the issue’s 
 
 # Project Ideas
 
-* Calculator
 * Chat
 * Blog
 * Social Network
